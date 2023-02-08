@@ -1,0 +1,12 @@
+NET é uma plataforma de desenvolvimento
+atualmente open-source, criada pela Microsoft, e que
+é composta por uma biblioteca padrão, um
+compilador e uma máquina virtual.
+
+NET Framework – Fornece acesso às amplas funcionalidades do Windows e do
+Windows Server. Também é amplamente usado para computação em nuvem baseada
+no Windows.
+
+NET Framework permitem que você realize uma variedade de tarefas comuns de
+programação, incluindo gerenciamento de cadeia de caracteres, coleta de dados,
+conectividade de banco de dados e acesso a arquivos.
